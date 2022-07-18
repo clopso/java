@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppMain/AppMain.iml" filepath="$PROJECT_DIR$/AppMain/AppMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitwise-shift-operator/bitwise-shift-operator.iml" filepath="$PROJECT_DIR$/bitwise-shift-operator/bitwise-shift-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
